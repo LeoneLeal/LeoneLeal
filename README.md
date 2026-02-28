@@ -106,6 +106,9 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 ### 📊 Estatísticas
 
