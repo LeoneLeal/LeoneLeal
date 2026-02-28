@@ -30,11 +30,6 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
   <a href="https://www.linkedin.com/in/leone-batista-de-souza-leal-batista-3709b0374/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;&nbsp; <!-- Espaço aqui -->
-  <a href="mailto:leonebatistadesouzaleal18@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 
 
@@ -120,6 +115,7 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoneLeal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    &nbsp;&nbsp; 
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
