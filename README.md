@@ -120,10 +120,6 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoneLeal&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br/>
-  <br/>
-<br/>
-<br/>
   <img 
     align="left" 
     alt="Tecnologias mais usadas" 
@@ -131,8 +127,9 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoneLeal&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<br/>
+<br/>
 
-<br/>
-<br/>
+
 
 
