@@ -2,12 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leone batista de Souza Leal, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando a **graduação Tecnólogo em Análise e Desenvolvimento de Sistemas na FASUL**. Sou um entusiasta da tecnologia em constante evolução.
+Me chamo Leone batista de Souza Leal, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando a **graduação Tecnólogo em Análise e Desenvolvimento de Sistemas na FASUL**. No momento atuo com suporte técnico e infraestrutura, buscando soluções práticas que tornem a rotina de pessoas e equipes mais fluida.
 Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas**. Minha jornada é focada em transformar problemas complexos em soluções de software eficientes e escaláveis.
 
 - 🎓 **Formação:** Técnico em ADS (Concluído) | Tecnólogo em ADS (Em andamento)
 - 🚀 **Objetivo:** Atuar como Desenvolvedor Full Stack / Backend / Frontend e contribuir com projetos inovadores.
-- 🌱 **Aprendendo no momento:** Java, SpringBoot.
+- 🌱 **Aprendendo no momento:** No momento, estou dedicando boa parte do estudo em Sites e estrutura de redes.
 
 ---
 
@@ -16,11 +16,11 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | JavaScript, Java |
+| **Linguagens** | JavaScript,  |
 | **Frontend** | HTML, CSS, React.js |
 | **Backend** | Node.js, Express |
 | **Banco de Dados** | MySQL |
-| **Ferramentas** | Git, GitHub, VS Code, IntelliJ |
+| **Ferramentas** | Git, GitHub, VS Code, Figma |
 
 ---
 
