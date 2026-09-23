@@ -18,7 +18,7 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
 | :--- | :--- |
 | **Linguagens** | JavaScript,  |
 | **Frontend** | HTML, CSS, React.js |
-| **Backend** | Node.js, Express |
+| **Backend** | Node.js |
 | **Banco de Dados** | MySQL |
 | **Ferramentas** | Git, GitHub, VS Code, Figma |
 
