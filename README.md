@@ -95,27 +95,5 @@ Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas*
 <br/>
 <br/>
 <br/>
-
-
-### 📊 Estatísticas
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://vn7n24fzkq-github-readme-stats.vercel.app/api/cards/stats?username=LeoneLeal&theme=github_dark" 
-/>
-&nbsp;&nbsp; 
-<img 
-  align="left" 
-  alt="Tecnologias mais usadas" 
-  height="200" 
-  src="https://vn7n24fzkq-github-readme-stats.vercel.app/api/cards/repos-per-language?username=LeoneLeal&theme=github_dark" 
-/>
 <br/>
 <br/>
-
-
-
-
