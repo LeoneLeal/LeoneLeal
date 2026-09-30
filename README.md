@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leone batista de Souza Leal, tenho 20 anos e sou natural da Bahia. Atualmente, estou cursando a **graduação Tecnólogo em Análise e Desenvolvimento de Sistemas na FASUL**. No momento atuo com suporte técnico e infraestrutura, buscando soluções práticas que tornem a rotina de pessoas e equipes mais fluida.
+Me chamo Leone batista de Souza Leal, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando a **graduação Tecnólogo em Análise e Desenvolvimento de Sistemas na FASUL**. No momento atuo com suporte técnico e infraestrutura, buscando soluções práticas que tornem a rotina de pessoas e equipes mais fluida.
 Já possuo formação como **Técnico em Análise e Desenvolvimento de Sistemas**. Minha jornada é focada em transformar problemas complexos em soluções de software eficientes e escaláveis.
 
 - 🎓 **Formação:** Técnico em ADS (Concluído) | Tecnólogo em ADS (Em andamento)
